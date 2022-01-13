@@ -20,7 +20,7 @@ Elle vous permettre d'afficher la liste des **10 documents** les plus consultés
 
 L'option suivante :
 
-		```-g nomfichier.dot```
+```-g nomfichier.dot```
 
 Permet de créer un fichier au format **GraphViz** du graphe analysé.
 
@@ -28,7 +28,7 @@ Permet de créer un fichier au format **GraphViz** du graphe analysé.
 
 L'option suivante :
 
-		```-e```
+```-e```
 
 Permet d'exclure les documents ayant une extension de type **image**, **css** ou **javascript**, lors de l'analyse du log par **Analog**.
 
@@ -36,6 +36,6 @@ Permet d'exclure les documents ayant une extension de type **image**, **css** ou
 
 L'option suivante :
 
-		```-t heure```
+```-t heure```
 
 Permet de ne prendre en compte que les hits présents dans l'intervalle horaire **[heure,heure+1[**.
