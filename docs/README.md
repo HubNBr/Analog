@@ -1,24 +1,13 @@
-# Analog
+# Utilitaire d'analyse de logs HTTP
 
-Utilitaire d'analyse de logs HTTP créé dans le cadre du TP4 de C++ d'informatique.
+Avec Analog vous pouvez :
 
-- liste1
-- liste2
+- Faire des statistiques sur des logs HTTP
+- Créer des graphiques représentants les trafics entre vos pages web
+- Ajuster l'analyse avec des options telles que l'analyse sur une période de temps précise
 
-1. L1
-2. L2
+## Prise en main
 
+## Les options d'Analog
 
-Paragraphe 1
-
-Paragraphe 2
-
-`Un bout de code`
-
-```js
-function a() {
-}
-```
-
-[Un lien vers une autre page mark down](./a.md)
 
