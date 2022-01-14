@@ -2,4 +2,4 @@
 
 Bienvenu dans **Analog**.
 
-[Manuel d'utilisation] (./Manuel.md)
+[Manuel d'utilisation](./Manuel.md)
