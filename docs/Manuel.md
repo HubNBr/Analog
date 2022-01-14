@@ -42,7 +42,7 @@ Permet de ne prendre en compte que les hits présents dans l'intervalle horaire 
 
 L'heure doit être un nombre entre **0** et **23**.
 
-### -help
+### -help (aide)
 
 L'option suivante :
 
