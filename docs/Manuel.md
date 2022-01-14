@@ -31,3 +31,5 @@ Permet d'exclure les documents ayant une extension de type **image**, **css** ou
 L'option suivante : ```-t heure```
 
 Permet de ne prendre en compte que les hits présents dans l'intervalle horaire **[heure,heure+1[**.
+
+[Retour vers la page principale](./README.md)
