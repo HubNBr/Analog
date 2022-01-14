@@ -39,11 +39,13 @@ L'option suivante :
 ```-t heure```
 
 Permet de ne prendre en compte que les hits présents dans l'intervalle horaire **[heure,heure+1[**.
+
 L'heure doit être un nombre entre **0** et **23**.
 
 ### -help
 
 L'option suivante :
+
 ```-help```
 
 Est l'option qui donne accès à ce manuel.
