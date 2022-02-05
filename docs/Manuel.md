@@ -20,7 +20,7 @@ Elle vous permet d'afficher la liste des **10 documents** les plus consultés pa
 
 L'option suivante :
 
-```-g```
+```-g [nomFichier.dot]```
 
 Permet de créer un fichier au format **GraphViz** à partir des logs analysés.
 
