@@ -1,6 +1,6 @@
 # Documentation technique
 
-## Choix des structures de données pour la sauvegarde des logs
+### Choix des structures de données pour la sauvegarde des logs
 
 * Les structures de données choisies pour la sauvegarde des logs en mémoire sont les suivantes :
 
