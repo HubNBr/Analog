@@ -20,9 +20,9 @@ Elle vous permet d'afficher la liste des **10 documents** les plus consultés pa
 
 L'option suivante :
 
-```-g nomfichier.dot```
+```-g```
 
-Permet de créer un fichier au format **GraphViz** du graphe analysé.
+Permet de créer un fichier au format **GraphViz** à partir des logs analysés.
 
 ### -e (exclure)
 
@@ -30,13 +30,13 @@ L'option suivante :
 
 ```-e```
 
-Permet d'exclure les documents ayant une extension de type **image**, **css** ou **javascript**, lors de l'analyse du log par **Analog**.
+Permet d'exclure les documents ayant une extension de type **image**, **css** ou **javascript**, lors de l'analyse du fichier de logs par **Analog**.
 
 ### -t (temps)
 
 L'option suivante :
 
-```-t heure```
+```-t [heure]```
 
 Permet de ne prendre en compte que les hits présents dans l'intervalle horaire **[heure,heure+1[**.
 
@@ -49,5 +49,11 @@ L'option suivante :
 ```-help```
 
 Est l'option qui donne accès à ce manuel.
+
+**Remarque importante :** l'aide du logiciel **Analog** supporte la redirection (le logiciel renvoie alors une aide textuelle). Ainsi, vous pouvez rediriger sa sortie normalement en faisant par exemple :
+
+```./analog -help | grep [motclé]```
+
+Si vous cherchez une information sur une option particulière depuis le terminal.
 
 [Retour vers la page principale](./README.md)
