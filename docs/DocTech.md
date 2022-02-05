@@ -14,6 +14,6 @@
 		refMapType refMap;
 	} RefStruct```
 	
-	Ainsi, pour chaque log destination on a accès aux logs qui le ciblent et le nombre de hits que chacun des ces logs a effectué ainsi que la somme de tous les hits pour chaque destination dans le **RefStruct**.
+Ainsi, pour chaque log destination on a accès aux logs qui le ciblent et le nombre de hits que chacun des ces logs a effectué ainsi que la somme de tous les hits pour chaque destination dans le **RefStruct**.
 
 [Retour vers la page principale](./README.md)
