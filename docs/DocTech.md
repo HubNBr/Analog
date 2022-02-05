@@ -2,7 +2,7 @@
 
 ### Choix des structures de données pour la sauvegarde des logs
 
-* Les structures de données choisies pour la sauvegarde des logs en mémoire sont les suivantes :
+Les structures de données choisies pour la sauvegarde des logs en mémoire sont les suivantes :
 
 	* Une *unordered_map<string, unsigned int>*, renommée **indMapType** ; pour stocker les URLs des différents logs et les associer à un identifiant unique dans le système. Ceci permet la création du fichier **.dot** de manière plus aisée.
 	* Une *unordered_map<unsigned int, unsigned in>*, renommée **logsMapType** ; pour stocker les identifiants des pages sources et le nombre de hits vers un log particulier depuis ces pages sources.
