@@ -10,7 +10,7 @@ Avec **Analog** vous pouvez :
 
 La commande de base d'utilisation du logiciel est :
 
-```$./analog [options] nomfichier.log```
+```$./analog [options] <nomFichier.log>```
 
 Elle vous permet d'afficher la liste des **10 documents** les plus consultés par ordre décroissant de popularité.
 
@@ -20,7 +20,7 @@ Elle vous permet d'afficher la liste des **10 documents** les plus consultés pa
 
 L'option suivante :
 
-```-g [nomFichier.dot]```
+```-g <nomFichier.dot>```
 
 Permet de créer un fichier au format **GraphViz** à partir des logs analysés.
 
@@ -36,7 +36,7 @@ Permet d'exclure les documents ayant une extension de type **image**, **css** ou
 
 L'option suivante :
 
-```-t [heure]```
+```-t <heure>```
 
 Permet de ne prendre en compte que les hits présents dans l'intervalle horaire **[heure,heure+1[**.
 
